@@ -12,6 +12,10 @@ BYU-DML machine learning algorithms or primitives created for DARPA's D3M projec
 
 A collection of JHU Python interfaces for TA1 primitives in the D3M project.
 
+[RPI Primitives](https://github.com/zijun-rpi/d3m-primitives)
+
+RPI primitives for D3M project. Executable pipelines are included.
+
 ## TA2 Systems
 ## TA3 Systems
 
