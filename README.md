@@ -3,6 +3,15 @@
 A list of D3M-related tools and their repository URLs
 
 ## Pipeline infrastructure and tools
+
+[d3m core package](https://gitlab.com/datadrivendiscovery/d3m)
+
+[common primitives](https://gitlab.com/datadrivendiscovery/common-primitives)
+
+[TA3-TA2 API](https://gitlab.com/datadrivendiscovery/ta3ta2-api)
+
+[simple-TA3](https://gitlab.com/datadrivendiscovery/simple-ta3)
+
 ## TA1 Components
 
 [BYU Primitives](https://github.com/byu-dml/d3m-primitives)
