@@ -30,6 +30,10 @@ A collection of JHU Python interfaces for TA1 primitives in the D3M project.
 
 RPI primitives for D3M project. Executable pipelines are included.
 
+[ICSI Primitives](https://github.com/ICSI-RealML/realML)
+
+ICSI kernel learning and matrix primitives for the D3M project. 
+
 [ISI Data Cleaning Primitives](https://github.com/usc-isi-i2/dsbox-cleaning), [ISI Featurization Primitives](https://github.com/usc-isi-i2/dsbox-featurizer)
 
 A collection of ISI primitives for data cleaning and featurization.
