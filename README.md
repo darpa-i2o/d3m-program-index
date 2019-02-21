@@ -43,6 +43,10 @@ BBN primitives and pipelines for D3M project.
 
 ISI's template-based automated machine learning system.
 
+[SRI TPOT System](https://github.com/daraghhartnett/tpot)
+
+SRI's fork of the TPOT system which has been made compliant with D3M primitives.
+
 ## TA3 Systems
 
 ## DataMart
