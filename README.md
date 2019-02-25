@@ -22,6 +22,10 @@ BYU-DML machine learning algorithms or primitives created for DARPA's D3M projec
 
 A collection of primitives and pipelines from multiple teams.
 
+[Distil (New Knowledge/Uncharted TA1)](https://github.com/NewKnowledge?utf8=%E2%9C%93&q=d3m-wrapper&type=public&language=)
+
+A collection of TA1 d3m-wrappers around [New Knowledge](https://github.com/NewKnowledge/) base libraries for  the D3M program.
+
 [JHU Primitives](https://github.com/neurodata/primitives-interfaces)
 
 A collection of JHU Python interfaces for TA1 primitives in the D3M project.
@@ -36,7 +40,7 @@ A collection of ISI primitives for data cleaning and featurization.
 
 [BBN Primitives](https://gitlab.datadrivendiscovery.org/BBN/d3m-bbn-primitives/tree/d3m.api2019.1.21.a)
 
-BBN primitives and pipelines for D3M project. 
+BBN primitives and pipelines for D3M project.
 ## TA2 Systems
 
 [ISI DSBox System](https://github.com/usc-isi-i2/dsbox-ta2)
