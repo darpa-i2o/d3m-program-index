@@ -37,6 +37,10 @@ A collection of ISI primitives for data cleaning and featurization.
 [BBN Primitives](https://gitlab.datadrivendiscovery.org/BBN/d3m-bbn-primitives/tree/d3m.api2019.1.21.a)
 
 BBN primitives and pipelines for D3M project. 
+
+[CMU Find Projections Primitives](https://gitlab.datadrivendiscovery.org/sray/find_projections), [CMU Fastlvm Primitives](https://gitlab.datadrivendiscovery.org/cmu/fastlvm)
+
+A collection of CMU primitives for D3M project.
 ## TA2 Systems
 
 [ISI DSBox System](https://github.com/usc-isi-i2/dsbox-ta2)
