@@ -22,6 +22,10 @@ BYU-DML machine learning algorithms or primitives created for DARPA's D3M projec
 
 A collection of primitives and pipelines from multiple teams.
 
+[Distil (New Knowledge/Uncharted TA1)](https://github.com/NewKnowledge?utf8=%E2%9C%93&q=d3m-wrapper&type=public&language=)
+
+A collection of TA1 d3m-wrappers around [New Knowledge](https://github.com/NewKnowledge/) base libraries for  the D3M program.
+
 [JHU Primitives](https://github.com/neurodata/primitives-interfaces)
 
 A collection of JHU Python interfaces for TA1 primitives in the D3M project.
@@ -29,6 +33,10 @@ A collection of JHU Python interfaces for TA1 primitives in the D3M project.
 [RPI Primitives](https://github.com/zijun-rpi/d3m-primitives)
 
 RPI primitives for D3M project. Executable pipelines are included.
+
+[ICSI Primitives](https://github.com/ICSI-RealML/realML)
+
+ICSI kernel learning and matrix primitives for the D3M project. 
 
 [ISI Data Cleaning Primitives](https://github.com/usc-isi-i2/dsbox-cleaning), [ISI Featurization Primitives](https://github.com/usc-isi-i2/dsbox-featurizer)
 
@@ -41,13 +49,22 @@ BBN primitives and pipelines for D3M project.
 [CMU Find Projections Primitives](https://gitlab.datadrivendiscovery.org/sray/find_projections), [CMU Fastlvm Primitives](https://gitlab.datadrivendiscovery.org/cmu/fastlvm)
 
 A collection of CMU primitives for D3M project.
+
 ## TA2 Systems
 
 [ISI DSBox System](https://github.com/usc-isi-i2/dsbox-ta2)
 
 ISI's template-based automated machine learning system.
 
+[SRI TPOT System](https://github.com/daraghhartnett/tpot)
+
+SRI's fork of the TPOT system which has been made compliant with D3M primitives.
+
 ## TA3 Systems
+
+[Tufts Snowcat](https://gitlab.datadrivendiscovery.org/cliu/tufts-ta3-winter-19-demo)
+
+Source code of branch "winter-19-demo"
 
 ## DataMart
 
