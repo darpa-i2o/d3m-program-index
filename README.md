@@ -57,6 +57,10 @@ SRI's fork of the TPOT system which has been made compliant with D3M primitives.
 
 ## TA3 Systems
 
+[Tufts Snowcat](https://gitlab.datadrivendiscovery.org/cliu/tufts-ta3-winter-19-demo)
+
+Source code of branch "winter-19-demo"
+
 ## DataMart
 
 DataMarts are data search engines. Given a problem and an dataset, those system can provide additional, relevant data and augment the initial dataset to enable the construction of a better model.
