@@ -50,6 +50,10 @@ BBN primitives and pipelines for D3M project.
 
 A collection of CMU primitives for D3M project.
 
+[Perspecta Labs Primitives](https://gitlab.datadrivendiscovery.org/plin/lupi_primitive/tree/v3.0.0)
+
+Perspecta Labs primitives and pipelines for D3M project.
+
 ## TA2 Systems
 
 [ISI DSBox System](https://github.com/usc-isi-i2/dsbox-ta2)
