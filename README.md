@@ -22,6 +22,10 @@ BYU-DML machine learning algorithms or primitives created for DARPA's D3M projec
 
 A collection of primitives and pipelines from multiple teams.
 
+[Cornell Primitives](https://github.com/cyangcornell/d3m-primitives)
+
+A collection of Cornell primitives with executable examples.
+
 [Distil (New Knowledge/Uncharted TA1)](https://github.com/NewKnowledge?utf8=%E2%9C%93&q=d3m-wrapper&type=public&language=)
 
 A collection of TA1 d3m-wrappers around [New Knowledge](https://github.com/NewKnowledge/) base libraries for  the D3M program.
