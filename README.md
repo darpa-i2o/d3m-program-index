@@ -58,6 +58,10 @@ A collection of CMU primitives for D3M project.
 
 Perspecta Labs primitives and pipelines for D3M project.
 
+[MIT Primitives](https://github.com/Featuretools/ta1-primitives)
+
+Wrapper around the [Featuretools](https://github.com/featuretools/featuretools/) library for automated feature engineering for D3M project.
+
 ## TA2 Systems
 
 [ISI DSBox System](https://github.com/usc-isi-i2/dsbox-ta2)
