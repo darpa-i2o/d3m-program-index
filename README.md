@@ -62,6 +62,10 @@ Perspecta Labs primitives and pipelines for D3M project.
 
 Wrapper around the [Featuretools](https://github.com/featuretools/featuretools/) library for automated feature engineering for D3M project.
 
+[SRI Primitives backend](https://github.com/linqs/psl)
+
+Developed and maintained by UCSC. Here is a website with more details: PSL (https://psl.linqs.org)
+
 ## TA2 Systems
 
 [ISI DSBox System](https://github.com/usc-isi-i2/dsbox-ta2)
