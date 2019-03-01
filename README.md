@@ -100,6 +100,10 @@ Alpine Meadow: Brown/MIT TA2 System (TBU)
 
 NYU's AlphaAutoML and TA2 Systems
 
+[Stanford TA2 System](https://github.com/HazyResearch/d3m-model-search)
+
+Stanford TA2 system for DARPA D3M Program
+
 ## TA3 Systems
 
 [Tufts Snowcat](https://gitlab.datadrivendiscovery.org/cliu/tufts-ta3-winter-19-demo)
