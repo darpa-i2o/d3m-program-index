@@ -76,6 +76,10 @@ ISI's template-based automated machine learning system.
 
 SRI's fork of the TPOT system which has been made compliant with D3M primitives.
 
+[TAMU System](https://gitlab.com/TAMU_D3M/Winter_2018_tamuta2)
+
+TAMU's automated machine learning system.
+
 ## TA3 Systems
 
 [Tufts Snowcat](https://gitlab.datadrivendiscovery.org/cliu/tufts-ta3-winter-19-demo)
