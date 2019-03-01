@@ -6,11 +6,11 @@ A list of D3M-related tools and their repository URLs
 
 [d3m core package](https://gitlab.com/datadrivendiscovery/d3m)
 
-[common primitives](https://gitlab.com/datadrivendiscovery/common-primitives)
-
 [TA3-TA2 API](https://gitlab.com/datadrivendiscovery/ta3ta2-api)
 
 [simple-TA3](https://gitlab.com/datadrivendiscovery/simple-ta3)
+
+[D3M dashboard](https://gitlab.datadrivendiscovery.org/d3m/dashboard)
 
 ## TA1 Components
 
@@ -79,6 +79,10 @@ ISI's template-based automated machine learning system.
 [SRI TPOT System](https://github.com/daraghhartnett/tpot)
 
 SRI's fork of the TPOT system which has been made compliant with D3M primitives.
+
+[UC Berkeley Aika](https://github.com/aika/aika)
+
+A framework to enable reproducible AutoML research. (TBD)
 
 ## TA3 Systems
 
