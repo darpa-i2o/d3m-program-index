@@ -88,6 +88,10 @@ TAMU's automated machine learning system.
 
 A framework to enable reproducible AutoML research. (TBD)
 
+[CMU TA2 System](https://github.com/saswatiray/cmu-ta2)
+
+CMU's TA2 system for DARPA D3M program
+
 ## TA3 Systems
 
 [Tufts Snowcat](https://gitlab.datadrivendiscovery.org/cliu/tufts-ta3-winter-19-demo)
