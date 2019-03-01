@@ -114,6 +114,10 @@ Vizdom: Brown/MIT TA3 System (TBU)
 
 NYU's TA3 system written in TypeScript, using Express and React.
 
+[Uncharted Distil](https://github.com/uncharted-distil)
+
+Uncharted's Mixed-Initiative Model Discovery System for Subject Matter Experts.
+
 ## DataMart
 
 DataMarts are data search engines. Given a problem and an dataset, those system can provide additional, relevant data and augment the initial dataset to enable the construction of a better model.
