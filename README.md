@@ -66,6 +66,10 @@ Wrapper around the [Featuretools](https://github.com/featuretools/featuretools/)
 
 Developed and maintained by UCSC. Here is a website with more details: PSL (https://psl.linqs.org)
 
+[Michigan Primitives](https://github.com/dvdmjohnson/d3m_michigan_primitives)
+
+A collection of University of Michigan primitives, with executable pipelines for many.
+
 ## TA2 Systems
 
 [ISI DSBox System](https://github.com/usc-isi-i2/dsbox-ta2)
