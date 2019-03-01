@@ -84,7 +84,7 @@ SRI's fork of the TPOT system which has been made compliant with D3M primitives.
 
 TAMU's automated machine learning system.
 
-[UC Berkeley Aika](https://github.com/aika/aika)
+[UC Berkeley Aika](https://gitlab.com/aika/aika)
 
 A framework to enable reproducible AutoML research. (TBD)
 
