@@ -92,11 +92,19 @@ A framework to enable reproducible AutoML research. (TBD)
 
 CMU's TA2 system for DARPA D3M program
 
+[Brown/MIT TA2 System](https://gitlab.datadrivendiscovery.org/zshang/alpine-meadow)
+
+Alpine Meadow: Brown/MIT TA2 System (TBU)
+
 ## TA3 Systems
 
 [Tufts Snowcat](https://gitlab.datadrivendiscovery.org/cliu/tufts-ta3-winter-19-demo)
 
 Source code of branch "winter-19-demo"
+
+[Brown/MIT TA3 System](https://gitlab.datadrivendiscovery.org/ezgraggen/vizdom)
+
+Vizdom: Brown/MIT TA3 System (TBU)
 
 ## DataMart
 
