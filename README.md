@@ -6,11 +6,11 @@ A list of D3M-related tools and their repository URLs
 
 [d3m core package](https://gitlab.com/datadrivendiscovery/d3m)
 
-[common primitives](https://gitlab.com/datadrivendiscovery/common-primitives)
-
 [TA3-TA2 API](https://gitlab.com/datadrivendiscovery/ta3ta2-api)
 
 [simple-TA3](https://gitlab.com/datadrivendiscovery/simple-ta3)
+
+[D3M dashboard](https://gitlab.datadrivendiscovery.org/d3m/dashboard)
 
 ## TA1 Components
 
@@ -66,6 +66,10 @@ Wrapper around the [Featuretools](https://github.com/featuretools/featuretools/)
 
 Developed and maintained by UCSC. Here is a website with more details: PSL (https://psl.linqs.org)
 
+[Michigan Primitives](https://github.com/dvdmjohnson/d3m_michigan_primitives)
+
+A collection of University of Michigan primitives, with executable pipelines for many.
+
 ## TA2 Systems
 
 [ISI DSBox System](https://github.com/usc-isi-i2/dsbox-ta2)
@@ -79,6 +83,10 @@ SRI's fork of the TPOT system which has been made compliant with D3M primitives.
 [TAMU System](https://gitlab.com/TAMU_D3M/Winter_2018_tamuta2)
 
 TAMU's automated machine learning system.
+
+[UC Berkeley Aika](https://github.com/aika/aika)
+
+A framework to enable reproducible AutoML research. (TBD)
 
 ## TA3 Systems
 
