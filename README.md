@@ -122,6 +122,10 @@ NYU's TA3 system written in TypeScript, using Express and React.
 
 Uncharted's Mixed-Initiative Model Discovery System for Subject Matter Experts.
 
+Purdue ModSquad](https://github.com/d3m-purdue)
+
+Purdue's Model Evaluation User Interface
+
 ## DataMart
 
 DataMarts are data search engines. Given a problem and an dataset, those system can provide additional, relevant data and augment the initial dataset to enable the construction of a better model.
