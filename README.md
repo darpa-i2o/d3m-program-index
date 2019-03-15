@@ -42,7 +42,7 @@ RPI primitives for D3M project. Executable pipelines are included.
 
 ICSI kernel learning and matrix primitives for the D3M project. 
 
-[ISI Data Cleaning Primitives](https://github.com/usc-isi-i2/dsbox-cleaning), [ISI Featurization Primitives](https://github.com/usc-isi-i2/dsbox-featurizer)
+[ISI Data Cleaning Primitives](https://github.com/usc-isi-i2/dsbox-cleaning), [ISI Featurization Primitives](https://github.com/usc-isi-i2/dsbox-featurizer), [ISI Information Regularization Primitives](https://github.com/brekelma/dsbox_corex)
 
 A collection of ISI primitives for data cleaning and featurization.
 
