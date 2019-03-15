@@ -36,7 +36,8 @@ A collection of ISI primitives for data cleaning and featurization.
 
 [BBN Primitives](https://gitlab.datadrivendiscovery.org/BBN/d3m-bbn-primitives/tree/d3m.api2019.1.21.a)
 
-BBN primitives and pipelines for D3M project. 
+BBN primitives and pipelines for D3M project.
+
 ## TA2 Systems
 
 [ISI DSBox System](https://github.com/usc-isi-i2/dsbox-ta2)
@@ -49,20 +50,24 @@ SRI's fork of the TPOT system which has been made compliant with D3M primitives.
 
 ## TA3 Systems
 
+[Tufts TA3 System](https://github.com/TuftsVALT/snowcat)
+
+Named as Snowcat, written in VueJS.
+
 ## DataMart
 
 DataMarts are data search engines. Given a problem and an dataset, those system can provide additional, relevant data and augment the initial dataset to enable the construction of a better model.
 
 ### NYU's DataMart system
 
-* [Publicly-accessible address](https://datamart.d3m.vida-nyu.org/)
-* [Source code](https://gitlab.com/ViDA-NYU/datamart/datamart)
-* [Data augmentation examples](https://gitlab.com/ViDA-NYU/datamart/datamart/tree/master/examples) through the API
-* Python packages: [datamart](https://pypi.org/project/datamart/), [datamart-materialize](https://pypi.org/project/datamart-materialize/), [datamart-augmentation](https://pypi.org/project/datamart-augmentation/)
+- [Publicly-accessible address](https://datamart.d3m.vida-nyu.org/)
+- [Source code](https://gitlab.com/ViDA-NYU/datamart/datamart)
+- [Data augmentation examples](https://gitlab.com/ViDA-NYU/datamart/datamart/tree/master/examples) through the API
+- Python packages: [datamart](https://pypi.org/project/datamart/), [datamart-materialize](https://pypi.org/project/datamart-materialize/), [datamart-augmentation](https://pypi.org/project/datamart-augmentation/)
 
 ### USC ISI's DataMart system
 
-* [Source code](https://github.com/usc-isi-i2/datamart/tree/development)
-* [College Debt example](https://github.com/usc-isi-i2/datamart/blob/development/example/college_example/college_example.ipynb)
-* [FIFA Man of the Match example](https://github.com/usc-isi-i2/datamart/blob/development/example/fifa_example/fifa_example.ipynb)
-* [REST example](https://github.com/usc-isi-i2/datamart/blob/development/example/rest_example/example.md)
+- [Source code](https://github.com/usc-isi-i2/datamart/tree/development)
+- [College Debt example](https://github.com/usc-isi-i2/datamart/blob/development/example/college_example/college_example.ipynb)
+- [FIFA Man of the Match example](https://github.com/usc-isi-i2/datamart/blob/development/example/fifa_example/fifa_example.ipynb)
+- [REST example](https://github.com/usc-isi-i2/datamart/blob/development/example/rest_example/example.md)
