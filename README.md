@@ -122,7 +122,7 @@ NYU's TA3 system written in TypeScript, using Express and React.
 
 Uncharted's Mixed-Initiative Model Discovery System for Subject Matter Experts.
 
-Purdue ModSquad](https://github.com/d3m-purdue)
+[Purdue ModSquad](https://github.com/d3m-purdue)
 
 Purdue's Model Evaluation User Interface
 
