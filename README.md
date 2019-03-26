@@ -130,6 +130,10 @@ Uncharted's Mixed-Initiative Model Discovery System for Subject Matter Experts.
 
 Purdue's Model Evaluation User Interface
 
+[Carnegie Mellon's TA3 System](https://github.com/stevencdang/AutoML-DS-Components.git)
+
+CMU's Tigris Workflow tool components developed as for use as TA3 system
+
 
 ## DataMart
 
