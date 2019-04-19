@@ -46,7 +46,7 @@ ICSI kernel learning and matrix primitives for the D3M project.
 
 A collection of ISI primitives for data cleaning and featurization.
 
-[BBN Primitives](https://gitlab.datadrivendiscovery.org/BBN/d3m-bbn-primitives/tree/d3m.api2019.1.21.a)
+[BBN Primitives](https://github.com/BBN-E/d3m-bbn-primitives)
 
 BBN primitives and pipelines for D3M project. 
 
