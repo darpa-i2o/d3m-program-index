@@ -50,7 +50,7 @@ A collection of ISI primitives for data cleaning and featurization.
 
 BBN primitives and pipelines for D3M project. 
 
-[CMU Find Projections Primitives](https://github.com/autonlab/find_projections), [CMU Fastlvm Primitives](https://github.com/autonlab/fastlvm)
+[CMU Find Projections Primitives](https://github.com/autonlab/find_projections), [CMU Fastlvm Primitives](https://github.com/autonlab/fastlvm), [CMU AutonBox Primitives](https://github.com/autonlab/autonbox)
 
 A collection of CMU primitives for D3M project.
 
