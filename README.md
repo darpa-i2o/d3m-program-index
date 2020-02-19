@@ -108,6 +108,10 @@ Stanford TA2 system for DARPA D3M Program
 
 MIT's AutoML and TA2 Systems
 
+[Distil AutoML](https://github.com/uncharted-distil/distil-auto-ml)
+
+Uncharted/Qntfy TA2 System
+
 ## TA3 Systems
 
 [Tufts TA3 System](https://github.com/TuftsVALT/snowcat)
