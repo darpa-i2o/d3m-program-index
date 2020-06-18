@@ -40,7 +40,7 @@ RPI primitives for D3M project. Executable pipelines are included.
 
 [ICSI Primitives](https://github.com/ICSI-RealML/realML)
 
-ICSI kernel learning and matrix primitives for the D3M project. 
+ICSI kernel learning and matrix primitives for the D3M project.
 
 [ISI Data Cleaning Primitives](https://github.com/usc-isi-i2/dsbox-cleaning), [ISI Featurization Primitives](https://github.com/usc-isi-i2/dsbox-featurizer), [ISI Information Regularization Primitives](https://github.com/brekelma/dsbox_corex)
 
@@ -48,7 +48,7 @@ A collection of ISI primitives for data cleaning and featurization.
 
 [BBN Primitives](https://github.com/BBN-E/d3m-bbn-primitives)
 
-BBN primitives and pipelines for D3M project. 
+BBN primitives and pipelines for D3M project.
 
 [CMU Find Projections Primitives](https://github.com/autonlab/find_projections), [CMU Fastlvm Primitives](https://github.com/autonlab/fastlvm), [CMU AutonBox Primitives](https://github.com/autonlab/autonbox)
 
@@ -69,6 +69,10 @@ Developed and maintained by UCSC. Here is a website with more details: PSL (http
 [Michigan Primitives](https://github.com/dvdmjohnson/d3m_michigan_primitives)
 
 A collection of University of Michigan primitives, with executable pipelines for many.
+
+[UBC Primitives](https://github.com/plai-group/ubc_primitives)
+
+A collection of UBC primitives, with sample pipelines for each primitive.
 
 ## TA2 Systems
 
