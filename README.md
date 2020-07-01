@@ -148,10 +148,10 @@ DataMarts are data search engines. Given a problem and an dataset, those system 
 
 ### NYU's DataMart system
 
-- [Publicly-accessible address](https://datamart.d3m.vida-nyu.org/)
+- [Publicly-accessible address](https://auctus.vida-nyu.org/)
 - [Source code](https://gitlab.com/ViDA-NYU/datamart/datamart)
 - [Data augmentation examples](https://gitlab.com/ViDA-NYU/datamart/datamart/tree/master/examples) through the API
-- Python packages: [datamart](https://pypi.org/project/datamart/), [datamart-materialize](https://pypi.org/project/datamart-materialize/), [datamart-augmentation](https://pypi.org/project/datamart-augmentation/)
+- Python packages: [datamart](https://pypi.org/project/datamart/), [datamart-profiler](https://pypi.org/project/datamart-profiler/), [datamart-materialize](https://pypi.org/project/datamart-materialize/), [datamart-augmentation](https://pypi.org/project/datamart-augmentation/)
 
 ### USC ISI's DataMart system
 
