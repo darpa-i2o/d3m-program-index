@@ -146,12 +146,15 @@ TwoRavens: Harvard/UT Dallas TA3 system.  Live demo at [2ravens.org](http://2rav
 
 DataMarts are data search engines. Given a problem and an dataset, those system can provide additional, relevant data and augment the initial dataset to enable the construction of a better model.
 
+- [datamart Python package](https://gitlab.com/datadrivendiscovery/datamart-api): common interface for Datamart access from Python
+
 ### NYU's DataMart system
 
 - [Publicly-accessible address](https://auctus.vida-nyu.org/)
 - [Source code](https://gitlab.com/ViDA-NYU/datamart/datamart)
 - [Data augmentation examples](https://gitlab.com/ViDA-NYU/datamart/datamart/tree/master/examples) through the API
-- Python packages: [datamart](https://pypi.org/project/datamart/), [datamart-profiler](https://pypi.org/project/datamart-profiler/), [datamart-materialize](https://pypi.org/project/datamart-materialize/), [datamart-augmentation](https://pypi.org/project/datamart-augmentation/)
+- Python packages: [datamart-profiler](https://pypi.org/project/datamart-profiler/), [datamart-materialize](https://pypi.org/project/datamart-materialize/), [datamart-augmentation](https://pypi.org/project/datamart-augmentation/)
+- Python client library: [datamart-rest](https://pypi.org/project/datamart-rest/)
 
 ### USC ISI's DataMart system
 
