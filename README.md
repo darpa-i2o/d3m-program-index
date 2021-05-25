@@ -1,3 +1,5 @@
+**Note: This page is outdated and has been replaced by our website, https://datadrivendiscovery.org/**
+
 # Data-driven discovery of models (D3M) program index
 
 A list of D3M-related tools and their repository URLs
